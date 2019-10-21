@@ -1,0 +1,10 @@
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\ni371318\Documents\GitHub\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
